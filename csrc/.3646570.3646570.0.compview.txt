@@ -1,9 +1,0 @@
-{"vcs1":{"timestamp_begin":1769664992.332965286, "rt":3.45, "ut":3.30, "st":0.09}}
-{"vcselab":{"timestamp_begin":1769664995.822870661, "rt":0.15, "ut":0.12, "st":0.04}}
-{"link":{"timestamp_begin":1769664996.003261073, "rt":0.28, "ut":0.17, "st":0.09}}
-{"SNPS_VCS_INTERNAL_ROOT_START_TIME": 1769664992.172769336}
-{"VCS_COMP_START_TIME": 1769664992.172769336}
-{"VCS_COMP_END_TIME": 1769664996.352075879}
-{"VCS_USER_OPTIONS": "-f file.f +incdir+rtl+tb +incdir+/opt/synopsys/vcs/W-2024.09-SP2/etc/uvm -full64 -sverilog -debug_access+all -ntb_opts uvm -l compile.log"}
-{"vcs1": {"peak_mem": 348964}}
-{"vcselab": {"peak_mem": 161824}}

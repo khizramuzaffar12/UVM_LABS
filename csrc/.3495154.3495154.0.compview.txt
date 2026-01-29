@@ -1,6 +1,0 @@
-Command exited with non-zero status 1
-{"vcs1":{"timestamp_begin":1769600911.850904379, "rt":0.04, "ut":0.01, "st":0.01}}
-{"SNPS_VCS_INTERNAL_ROOT_START_TIME": 1769600911.697651369}
-{"VCS_COMP_START_TIME": 1769600911.697651369}
-{"VCS_COMP_END_TIME": 1769600911.933209204}
-{"VCS_USER_OPTIONS": "-full64 -sverilog -ntb_opts uvm -timescale=1ns/1ps -debug_access+all -f ucie_compile.f -o sim"}

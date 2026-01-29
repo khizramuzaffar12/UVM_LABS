@@ -1,7 +1,0 @@
-Command exited with non-zero status 255
-{"vcs1":{"timestamp_begin":1769664464.617089183, "rt":0.69, "ut":0.64, "st":0.04}}
-{"SNPS_VCS_INTERNAL_ROOT_START_TIME": 1769664464.459287367}
-{"VCS_COMP_START_TIME": 1769664464.459287367}
-{"VCS_COMP_END_TIME": 1769664465.348773831}
-{"VCS_USER_OPTIONS": "-f file.f +incdir+rtl+tb +incdir+/opt/synopsys/vcs/W-2024.09-SP2/etc/uvm -full64 -sverilog -debug_access+all -ntb_opts uvm -l compile.log"}
-{"vcs1": {"peak_mem": 306484}}
